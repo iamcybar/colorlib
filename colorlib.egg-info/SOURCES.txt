@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+colorlib/__init__.py
+colorlib/color_utils.py
+colorlib.egg-info/PKG-INFO
+colorlib.egg-info/SOURCES.txt
+colorlib.egg-info/dependency_links.txt
+colorlib.egg-info/top_level.txt

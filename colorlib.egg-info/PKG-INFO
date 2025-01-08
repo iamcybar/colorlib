@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: colorlib
+Version: 0.1
+Summary: A Python library for working with colors.
+Home-page: https://github.com/your-username/colorlib
+Author: Asiegbu Caleb
+Author-email: asiegbucaleb3@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# ColorLib
+
+ColorLib is a Python library for working with colors. It provides utilities for converting between HEX and RGB formats, and for generating complementary colors.
+
+## Features
+- Convert HEX to RGB
+- Convert RGB to HEX
+- Generate complementary colors
+
+## Installation
+Clone the repository and install using pip:
+```bash
+pip install .
