@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ColorLib
 
 ColorLib is a Python library for working with colors. It provides utilities for converting between HEX and RGB formats, and for generating complementary colors.
@@ -11,3 +12,7 @@ ColorLib is a Python library for working with colors. It provides utilities for 
 Clone the repository and install using pip:
 ```bash
 pip install .
+=======
+# colorlib
+A Python library for working with colors.
+>>>>>>> c7eb57be013129562d91fdfeae34bd4c40c4ed5e
